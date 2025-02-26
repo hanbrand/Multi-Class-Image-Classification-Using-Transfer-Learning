@@ -64,3 +64,7 @@ This project is open-source and available under the **MIT License**.
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RuHimdEP)
+
+# Multi-Class-Image-Classification-Using-Transfer-Learning-
+Transfer learning-based image classification project using pre-trained deep learning models (ResNet50, ResNet101, EfficientNetB0, VGG16). Implements fine-tuning, image augmentation, and model evaluation for scene classification.
+>>>>>>> origin/main
